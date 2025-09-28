@@ -6,3 +6,4 @@ g=s.find("l")
 
 print(s)
 print(g)
+ghjn
