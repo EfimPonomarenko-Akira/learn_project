@@ -7,3 +7,5 @@ lst.remove(2)
 print(lst.pop())
 
 
+
+#just for create
