@@ -4,6 +4,7 @@ x = 100
 
 
 string = "stoka"
+буква = "stoka"
 integer = 1
 float = 1.1
 list = [1,2,3]
@@ -13,11 +14,11 @@ tuple = (1,2,3)
 bool = True
 
 peremennaya = 2
+new_peremennaya = str(peremennaya)
+print(new_peremennaya)
+super_new_peremennya = int(new_peremennaya)
 
-
-if словарь > a:
-    print("словарь больше A")
-elif словарь > x:
-    print("словарь больше X")
+if type(super_new_peremennya) == int:
+    print("Это число")
 else:
-    print("словарь меньше")
+    print("Это не строка")
