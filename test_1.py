@@ -28,3 +28,12 @@ a = 1
 print(s)
 print(a)
 print(s+a)
+
+string = "stoka"
+integer = 1
+list = [1,2,3]
+dictionary = {"key": "value"}
+float = 1.1
+bool = True
+set = {1,2,3}
+tuple = (1,2,3)
